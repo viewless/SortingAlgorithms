@@ -1,0 +1,11 @@
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\bin\Debug\netcoreapp3.1\01_Task_Interview.exe
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\bin\Debug\netcoreapp3.1\01_Task_Interview.deps.json
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\bin\Debug\netcoreapp3.1\01_Task_Interview.runtimeconfig.json
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\bin\Debug\netcoreapp3.1\01_Task_Interview.runtimeconfig.dev.json
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\bin\Debug\netcoreapp3.1\01_Task_Interview.dll
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\bin\Debug\netcoreapp3.1\01_Task_Interview.pdb
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\obj\Debug\netcoreapp3.1\01_Task_Interview.csprojAssemblyReference.cache
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\obj\Debug\netcoreapp3.1\01_Task_Interview.AssemblyInfoInputs.cache
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\obj\Debug\netcoreapp3.1\01_Task_Interview.AssemblyInfo.cs
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\obj\Debug\netcoreapp3.1\01_Task_Interview.dll
+D:\Dev\viewless\Sorting Algorithms\Sorting Algorithms\01_Task_Interview\obj\Debug\netcoreapp3.1\01_Task_Interview.pdb
